@@ -6,6 +6,8 @@ import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 
 import cardata from "./MOCK_DATA.json";
 
+import TeachersData from "./components/TeachersData";
+
 const App = () => {
 
     const columnTable = [
@@ -63,6 +65,9 @@ const App = () => {
                     onSelectionChanged={onSelectionChanged}
                     rowMultiSelectWithClick={true}
                 />
+            </div>
+            <div>
+                <TeachersData/>
             </div>
         </div>
     );
