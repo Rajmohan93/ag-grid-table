@@ -1,0 +1,601 @@
+[{
+    "make": "Honda",
+    "model": "Accord",
+    "color": "Fuscia",
+    "carmodelyear": 1998,
+    "price": "$12068.73"
+}, {
+    "make": "Chrysler",
+    "model": "300M",
+    "color": "Crimson",
+    "carmodelyear": 2001,
+    "price": "$10525.30"
+}, {
+    "make": "Mazda",
+    "model": "Mazda6",
+    "color": "Khaki",
+    "carmodelyear": 2009,
+    "price": "$17124.76"
+}, {
+    "make": "Lincoln",
+    "model": "Blackwood",
+    "color": "Fuscia",
+    "carmodelyear": 2003,
+    "price": "$19031.50"
+}, {
+    "make": "Pontiac",
+    "model": "Grand Am",
+    "color": "Pink",
+    "carmodelyear": 1988,
+    "price": "$15224.00"
+}, {
+    "make": "Volkswagen",
+    "model": "GTI",
+    "color": "Goldenrod",
+    "carmodelyear": 1993,
+    "price": "$12716.44"
+}, {
+    "make": "Hummer",
+    "model": "H1",
+    "color": "Indigo",
+    "carmodelyear": 2001,
+    "price": "$18406.55"
+}, {
+    "make": "Lincoln",
+    "model": "Continental",
+    "color": "Khaki",
+    "carmodelyear": 1993,
+    "price": "$12735.40"
+}, {
+    "make": "BMW",
+    "model": "530",
+    "color": "Crimson",
+    "carmodelyear": 2001,
+    "price": "$12467.37"
+}, {
+    "make": "Subaru",
+    "model": "Loyale",
+    "color": "Mauv",
+    "carmodelyear": 1992,
+    "price": "$10666.17"
+}, {
+    "make": "Dodge",
+    "model": "Charger",
+    "color": "Violet",
+    "carmodelyear": 2009,
+    "price": "$10514.66"
+}, {
+    "make": "Ford",
+    "model": "E350",
+    "color": "Khaki",
+    "carmodelyear": 2012,
+    "price": "$17460.84"
+}, {
+    "make": "Lexus",
+    "model": "SC",
+    "color": "Blue",
+    "carmodelyear": 1998,
+    "price": "$16368.70"
+}, {
+    "make": "Hyundai",
+    "model": "Tiburon",
+    "color": "Khaki",
+    "carmodelyear": 2008,
+    "price": "$18228.00"
+}, {
+    "make": "BMW",
+    "model": "5 Series",
+    "color": "Turquoise",
+    "carmodelyear": 2004,
+    "price": "$16862.34"
+}, {
+    "make": "Toyota",
+    "model": "MR2",
+    "color": "Green",
+    "carmodelyear": 2002,
+    "price": "$18510.61"
+}, {
+    "make": "Infiniti",
+    "model": "QX",
+    "color": "Indigo",
+    "carmodelyear": 2009,
+    "price": "$18590.53"
+}, {
+    "make": "Honda",
+    "model": "Civic",
+    "color": "Goldenrod",
+    "carmodelyear": 1990,
+    "price": "$11221.56"
+}, {
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "color": "Yellow",
+    "carmodelyear": 1998,
+    "price": "$13831.64"
+}, {
+    "make": "Infiniti",
+    "model": "G37",
+    "color": "Yellow",
+    "carmodelyear": 2008,
+    "price": "$17639.40"
+}, {
+    "make": "Ford",
+    "model": "Escort",
+    "color": "Red",
+    "carmodelyear": 1988,
+    "price": "$12893.04"
+}, {
+    "make": "Lincoln",
+    "model": "Continental Mark VII",
+    "color": "Maroon",
+    "carmodelyear": 1985,
+    "price": "$13788.91"
+}, {
+    "make": "Ford",
+    "model": "E250",
+    "color": "Orange",
+    "carmodelyear": 2011,
+    "price": "$15248.55"
+}, {
+    "make": "Isuzu",
+    "model": "i-280",
+    "color": "Crimson",
+    "carmodelyear": 2006,
+    "price": "$18622.33"
+}, {
+    "make": "Chevrolet",
+    "model": "Lumina",
+    "color": "Crimson",
+    "carmodelyear": 1996,
+    "price": "$10895.42"
+}, {
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "color": "Pink",
+    "carmodelyear": 2009,
+    "price": "$13753.09"
+}, {
+    "make": "Ford",
+    "model": "Expedition",
+    "color": "Yellow",
+    "carmodelyear": 2006,
+    "price": "$17819.23"
+}, {
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "color": "Violet",
+    "carmodelyear": 1996,
+    "price": "$14709.86"
+}, {
+    "make": "Geo",
+    "model": "Storm",
+    "color": "Green",
+    "carmodelyear": 1992,
+    "price": "$10789.26"
+}, {
+    "make": "Ford",
+    "model": "Contour",
+    "color": "Purple",
+    "carmodelyear": 1995,
+    "price": "$18606.59"
+}, {
+    "make": "Chrysler",
+    "model": "LHS",
+    "color": "Goldenrod",
+    "carmodelyear": 1997,
+    "price": "$10563.78"
+}, {
+    "make": "Toyota",
+    "model": "Sequoia",
+    "color": "Indigo",
+    "carmodelyear": 2002,
+    "price": "$15947.64"
+}, {
+    "make": "Ford",
+    "model": "Bronco",
+    "color": "Pink",
+    "carmodelyear": 1988,
+    "price": "$16440.83"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "W126",
+    "color": "Khaki",
+    "carmodelyear": 1981,
+    "price": "$13527.97"
+}, {
+    "make": "Oldsmobile",
+    "model": "Aurora",
+    "color": "Maroon",
+    "carmodelyear": 1997,
+    "price": "$13310.70"
+}, {
+    "make": "Mitsubishi",
+    "model": "Tredia",
+    "color": "Purple",
+    "carmodelyear": 1985,
+    "price": "$11210.19"
+}, {
+    "make": "Volkswagen",
+    "model": "Rabbit",
+    "color": "Teal",
+    "carmodelyear": 2008,
+    "price": "$19416.45"
+}, {
+    "make": "Ford",
+    "model": "Bronco II",
+    "color": "Maroon",
+    "carmodelyear": 1989,
+    "price": "$13434.57"
+}, {
+    "make": "Hyundai",
+    "model": "XG350",
+    "color": "Blue",
+    "carmodelyear": 2002,
+    "price": "$10166.03"
+}, {
+    "make": "Ford",
+    "model": "Courier",
+    "color": "Puce",
+    "carmodelyear": 1988,
+    "price": "$12824.70"
+}, {
+    "make": "Ford",
+    "model": "F-Series",
+    "color": "Green",
+    "carmodelyear": 1985,
+    "price": "$14417.45"
+}, {
+    "make": "Chevrolet",
+    "model": "Suburban 1500",
+    "color": "Puce",
+    "carmodelyear": 2006,
+    "price": "$11095.37"
+}, {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "color": "Yellow",
+    "carmodelyear": 2003,
+    "price": "$13260.40"
+}, {
+    "make": "Honda",
+    "model": "S2000",
+    "color": "Puce",
+    "carmodelyear": 2007,
+    "price": "$19857.46"
+}, {
+    "make": "Ford",
+    "model": "Mustang",
+    "color": "Purple",
+    "carmodelyear": 2003,
+    "price": "$17917.16"
+}, {
+    "make": "Lexus",
+    "model": "IS",
+    "color": "Yellow",
+    "carmodelyear": 2006,
+    "price": "$12224.33"
+}, {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "color": "Yellow",
+    "carmodelyear": 1995,
+    "price": "$14446.57"
+}, {
+    "make": "Volkswagen",
+    "model": "Touareg 2",
+    "color": "Red",
+    "carmodelyear": 2009,
+    "price": "$13487.94"
+}, {
+    "make": "Chevrolet",
+    "model": "Silverado 3500HD",
+    "color": "Violet",
+    "carmodelyear": 2006,
+    "price": "$18414.08"
+}, {
+    "make": "Dodge",
+    "model": "Viper",
+    "color": "Goldenrod",
+    "carmodelyear": 2010,
+    "price": "$13288.20"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "190E",
+    "color": "Purple",
+    "carmodelyear": 1993,
+    "price": "$15536.69"
+}, {
+    "make": "Bentley",
+    "model": "Continental",
+    "color": "Fuscia",
+    "carmodelyear": 2008,
+    "price": "$11959.89"
+}, {
+    "make": "Ford",
+    "model": "E-Series",
+    "color": "Yellow",
+    "carmodelyear": 2004,
+    "price": "$17114.19"
+}, {
+    "make": "Acura",
+    "model": "TL",
+    "color": "Teal",
+    "carmodelyear": 2012,
+    "price": "$19879.20"
+}, {
+    "make": "Ford",
+    "model": "E250",
+    "color": "Indigo",
+    "carmodelyear": 1984,
+    "price": "$14515.05"
+}, {
+    "make": "Volvo",
+    "model": "S60",
+    "color": "Orange",
+    "carmodelyear": 2007,
+    "price": "$11037.35"
+}, {
+    "make": "Lincoln",
+    "model": "MKX",
+    "color": "Violet",
+    "carmodelyear": 2013,
+    "price": "$13201.52"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "color": "Mauv",
+    "carmodelyear": 2003,
+    "price": "$18567.00"
+}, {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "color": "Blue",
+    "carmodelyear": 1989,
+    "price": "$16731.40"
+}, {
+    "make": "Chrysler",
+    "model": "300M",
+    "color": "Khaki",
+    "carmodelyear": 1999,
+    "price": "$13004.63"
+}, {
+    "make": "Volvo",
+    "model": "XC70",
+    "color": "Blue",
+    "carmodelyear": 2005,
+    "price": "$17587.24"
+}, {
+    "make": "Audi",
+    "model": "S6",
+    "color": "Orange",
+    "carmodelyear": 1995,
+    "price": "$11896.61"
+}, {
+    "make": "Pontiac",
+    "model": "Parisienne",
+    "color": "Violet",
+    "carmodelyear": 1984,
+    "price": "$14345.19"
+}, {
+    "make": "Land Rover",
+    "model": "LR3",
+    "color": "Indigo",
+    "carmodelyear": 2007,
+    "price": "$11205.21"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "color": "Goldenrod",
+    "carmodelyear": 2002,
+    "price": "$19397.76"
+}, {
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "color": "Khaki",
+    "carmodelyear": 2012,
+    "price": "$12932.71"
+}, {
+    "make": "Chevrolet",
+    "model": "Express 1500",
+    "color": "Turquoise",
+    "carmodelyear": 1999,
+    "price": "$18949.95"
+}, {
+    "make": "Nissan",
+    "model": "Armada",
+    "color": "Aquamarine",
+    "carmodelyear": 2012,
+    "price": "$18334.45"
+}, {
+    "make": "Volkswagen",
+    "model": "Type 2",
+    "color": "Goldenrod",
+    "carmodelyear": 1991,
+    "price": "$15607.62"
+}, {
+    "make": "BMW",
+    "model": "525",
+    "color": "Red",
+    "carmodelyear": 2004,
+    "price": "$11297.00"
+}, {
+    "make": "Kia",
+    "model": "Sorento",
+    "color": "Turquoise",
+    "carmodelyear": 2004,
+    "price": "$18386.08"
+}, {
+    "make": "Chevrolet",
+    "model": "Beretta",
+    "color": "Khaki",
+    "carmodelyear": 1992,
+    "price": "$14832.75"
+}, {
+    "make": "Chevrolet",
+    "model": "Avalanche 1500",
+    "color": "Khaki",
+    "carmodelyear": 2006,
+    "price": "$12496.76"
+}, {
+    "make": "Toyota",
+    "model": "RAV4",
+    "color": "Red",
+    "carmodelyear": 1996,
+    "price": "$15039.14"
+}, {
+    "make": "Lexus",
+    "model": "SC",
+    "color": "Aquamarine",
+    "carmodelyear": 1997,
+    "price": "$15089.00"
+}, {
+    "make": "GMC",
+    "model": "Savana 3500",
+    "color": "Aquamarine",
+    "carmodelyear": 2009,
+    "price": "$10706.97"
+}, {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "color": "Violet",
+    "carmodelyear": 2005,
+    "price": "$19303.16"
+}, {
+    "make": "Subaru",
+    "model": "SVX",
+    "color": "Mauv",
+    "carmodelyear": 1992,
+    "price": "$15802.74"
+}, {
+    "make": "Ford",
+    "model": "Focus",
+    "color": "Fuscia",
+    "carmodelyear": 2003,
+    "price": "$11620.07"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "color": "Aquamarine",
+    "carmodelyear": 1994,
+    "price": "$17687.99"
+}, {
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "color": "Goldenrod",
+    "carmodelyear": 2001,
+    "price": "$12154.90"
+}, {
+    "make": "Dodge",
+    "model": "Ram 3500 Club",
+    "color": "Teal",
+    "carmodelyear": 1997,
+    "price": "$14484.64"
+}, {
+    "make": "Ford",
+    "model": "Five Hundred",
+    "color": "Violet",
+    "carmodelyear": 2006,
+    "price": "$19253.62"
+}, {
+    "make": "Dodge",
+    "model": "Durango",
+    "color": "Orange",
+    "carmodelyear": 2006,
+    "price": "$18139.69"
+}, {
+    "make": "Toyota",
+    "model": "Tacoma",
+    "color": "Teal",
+    "carmodelyear": 2000,
+    "price": "$12747.82"
+}, {
+    "make": "Dodge",
+    "model": "Ram Van 3500",
+    "color": "Purple",
+    "carmodelyear": 1995,
+    "price": "$11026.54"
+}, {
+    "make": "Nissan",
+    "model": "NX",
+    "color": "Red",
+    "carmodelyear": 1993,
+    "price": "$16362.81"
+}, {
+    "make": "Toyota",
+    "model": "Venza",
+    "color": "Goldenrod",
+    "carmodelyear": 2012,
+    "price": "$17827.15"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "color": "Violet",
+    "carmodelyear": 2003,
+    "price": "$19292.93"
+}, {
+    "make": "Honda",
+    "model": "Passport",
+    "color": "Turquoise",
+    "carmodelyear": 1999,
+    "price": "$14438.24"
+}, {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "color": "Green",
+    "carmodelyear": 1999,
+    "price": "$11557.27"
+}, {
+    "make": "Volvo",
+    "model": "V40",
+    "color": "Blue",
+    "carmodelyear": 2002,
+    "price": "$13675.97"
+}, {
+    "make": "Mazda",
+    "model": "RX-8",
+    "color": "Aquamarine",
+    "carmodelyear": 2009,
+    "price": "$16078.62"
+}, {
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "color": "Yellow",
+    "carmodelyear": 2003,
+    "price": "$18899.47"
+}, {
+    "make": "Geo",
+    "model": "Tracker",
+    "color": "Fuscia",
+    "carmodelyear": 1995,
+    "price": "$12294.21"
+}, {
+    "make": "GMC",
+    "model": "1500",
+    "color": "Yellow",
+    "carmodelyear": 1992,
+    "price": "$17158.81"
+}, {
+    "make": "Mazda",
+    "model": "Mazda5",
+    "color": "Red",
+    "carmodelyear": 2012,
+    "price": "$11145.32"
+}, {
+    "make": "Honda",
+    "model": "Accord",
+    "color": "Purple",
+    "carmodelyear": 1984,
+    "price": "$13914.54"
+}, {
+    "make": "Chevrolet",
+    "model": "Silverado 2500",
+    "color": "Pink",
+    "carmodelyear": 2011,
+    "price": "$11242.30"
+}, {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "color": "Violet",
+    "carmodelyear": 2008,
+    "price": "$19797.01"
+}]
