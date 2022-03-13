@@ -3,3 +3,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* 
+.ag-row {
+    z-index: 0;
+}
+
+.ag-row-focus {
+    z-index: 1;
+} */
+
+actions-button-cell {
+    overflow: visible;
+}
+
+.ag-cell {
+    overflow: visible;
+}
+
+.ag-row {
+    z-index: 0;
+}
+
+.ag-row.ag-row-focus {
+    z-index: 1;
+}
+
+.ag-root,
+.ag-root-wrapper,
+.ag-body-viewport,
+.ag-body-viewport-wrapper,
+.ag-center-cols-clipper,
+.ag-center-cols-viewport {
+    overflow: visible !important;
+}

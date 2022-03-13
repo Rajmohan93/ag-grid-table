@@ -7,6 +7,7 @@ import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 import cardata from "./MOCK_DATA.json";
 
 import TeachersData from "./components/TeachersData";
+import BatchesData from "./components/ViewAllBatches";
 
 const App = () => {
 
@@ -64,10 +65,14 @@ const App = () => {
                     rowSelection={rowSelectionType}
                     onSelectionChanged={onSelectionChanged}
                     rowMultiSelectWithClick={true}
+                    defaultColDef={{flex:1}}
                 />
             </div>
             <div>
                 <TeachersData/>
+            </div>
+            <div>
+                <BatchesData/>
             </div>
         </div>
     );
