@@ -1,11 +1,8 @@
 import React, { useState } from "react";
-import { Button } from "react-bootstrap";
 import { AgGridReact } from "ag-grid-react";
 
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
-
-import DropdownFile from "./Dropdown";
 
 function TeachersData() {
 
@@ -13,14 +10,12 @@ function TeachersData() {
     const [ filterData, setFilterData ] = useState([]);
 
     const columnHeader = [
-        { headerName: "Teacher Id", field: "teacher_id", filter: true, sortable: true, checkboxSelection: true, headerCheckboxSelection: true, 
-        },
-        { headerName: "Teacher Name", field: "teacher_name", filter: true, sortable: true, floatingFilter: true },
+        { headerName: "Teacher Id", field: "teacher_id", filter: true, sortable: true, checkboxSelection: true, headerCheckboxSelection: true, },
+        { headerName: "Teacher Name", field: "teacher_name", filter: true, sortable: true, },
         { headerName: "Phone Number", field: "contactno", filter: true, sortable: true },
         { headerName: "Email", field: "email", filter: true, sortable: true },
         { headerName: "Languages", field: "spoken_languages", filter: true, sortable: true },
         { headerName: "Audio Status", field: "audio_status", filter: true, sortable: true },
-        { headerName: "Student Mapped To", field: "", filter: true, sortable: true },
         { headerName: "APR Reference Name", field: "apr_reference_name", filter: true, sortable: true },
         { headerName: "APR Phone Number", field: "apr_reference_contact", filter: true, sortable: true },
         { headerName: "Teacher Status", field: "teacher_status", filter: true, sortable: true,
@@ -30,12 +25,6 @@ function TeachersData() {
         { headerName: "Group Status", field: "group_status", filter: true, sortable: true,
             cellStyle: (params) => (params.value === "grouped" ? {color : "green", fontWeight : "bold"} : {color: "red", fontWeight : "bold"})
         },
-        { headerName: "Comments", field: "", filter: true, sortable: true },
-        { headerName: "Action", cellRendererFramework: (params) => 
-            <div>
-                <Button type="button" variant="success">Click Here</Button>
-            </div>
-        }
     ]
 
     const onGridReady = (params) => {
@@ -51,7 +40,7 @@ function TeachersData() {
     const rowSelectionType = "multiple";
 
     const onSelectionChanged = (event) => {
-        console.log(event.api.getSelectedRows());
+        // console.log(event.api.getSelectedRows());
         setSelectedValue(event.api.getSelectedRows());
     }
 
@@ -59,7 +48,7 @@ function TeachersData() {
         filterData.setQuickFilter(e.target.value);
     }
 
-    console.log(selectedValue);
+    // console.log(selectedValue);
 
     return (
         <div>
@@ -82,8 +71,7 @@ function TeachersData() {
                     sideBar = {true}
                 />
             </div>
-            <DropdownFile />
-            <p>
+            {/* <p>
                 {selectedValue.map((items) => (
                     items.teacher_name
                 ))}
@@ -92,7 +80,7 @@ function TeachersData() {
                 {selectedValue.map((value, index) => {
                 return <li key={index}>{value.teacher_name}</li>
                 })}
-            </ul>
+            </ul> */}
         </div>
     )
 }

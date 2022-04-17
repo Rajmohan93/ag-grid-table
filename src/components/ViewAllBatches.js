@@ -1,11 +1,9 @@
-import React, {useState} from "react";
-import {Button} from "react-bootstrap";
-import {AgGridReact} from "ag-grid-react";
+import React, { useState } from "react";
+import { Button } from "react-bootstrap";
+import { AgGridReact } from "ag-grid-react";
 
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
-
-import DropdownFile from "./Dropdown";
 
 function ViewAllBatches() {
 
@@ -15,7 +13,7 @@ function ViewAllBatches() {
     const columnHeader = [
         {
             headerName: "Batch Id",
-            field: "batch_ids",
+            field: "batch_id",
             sortable: true,
             filter: true,
             editable: true,
@@ -53,9 +51,6 @@ function ViewAllBatches() {
             filter: true,
             editable: true,
         }, {
-            headerName: "Dropdown",
-            cellRendererFramework: (params) => <DropdownFile/>
-        }, {
             headerName: "Add Teacher",
             cellRendererFramework: (params) => <div>
                     <Button type="button" variant="primary">Add Teacher</Button>
@@ -89,7 +84,7 @@ function ViewAllBatches() {
     // const rowSelectionType = "multiple";
 
     const onSelectionChanged = (event) => {
-        console.log(event.api.getSelectedRows());
+        // console.log(event.api.getSelectedRows());
         setBatchValue(event.api.getSelectedRows());
     }
 
@@ -97,7 +92,7 @@ function ViewAllBatches() {
         filterData.setQuickFilter(e.target.value);
     }
 
-    console.log(batchValue);
+    // console.log(batchValue);
 
     return (
         <div>
