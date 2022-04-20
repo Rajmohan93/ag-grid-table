@@ -8,7 +8,7 @@ import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 import cardata from "./MOCK_DATA.json";
 
 import TeachersData from "./components/TeachersData";
-import BatchesData from "./components/ViewAllBatches";
+// import BatchesData from "./components/ViewAllBatches";
 
 import "./App.css";
 
@@ -87,10 +87,10 @@ const App = () => {
                     defaultColDef={{flex:1}}
                 />
             </div>
-            {/* <div>
+            <div>
                 <TeachersData />
             </div>
-            <div>
+            {/* <div>
                 <BatchesData />
             </div> */}
         </div>
